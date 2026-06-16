@@ -1,0 +1,1 @@
+Hi. I was not familiar with the concepts required for the task when I started, so I spent most of my time learning and understanding them. I wasn't able to complete the entire implementation, but I've submitted what I was able to build and understand.
